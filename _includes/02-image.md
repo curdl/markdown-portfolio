@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Github cheat sheet](https://i.redd.it/8341g68g1v7y.png)
